@@ -100,8 +100,8 @@ page {
   flex: 1;
   text-align: center;
   image {
-    width: 219rpx;
-    height: 219rpx;
+    width: 220rpx;
+    height: 220rpx;
     margin-top: 15vh;
   }
 }
