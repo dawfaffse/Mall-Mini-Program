@@ -124,7 +124,7 @@ page {
     width: 120rpx;
     height: 120rpx;
     border-radius: 50%;
-    background-color: #eee;
+    background-color: #f6dbdb;
   }
 
   .gray {
